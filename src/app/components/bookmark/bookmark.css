@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navigation {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 56px;
+    padding: 10px 5%;
+    margin: 10px 1%;
+    display: flex;
+    align-content: center;
+}
