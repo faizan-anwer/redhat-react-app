@@ -28,7 +28,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 #Exercise 3 - Sample project
-## Please construct the following sample project
+## Constructed the following sample project
 
 ### `Step 1 – Created the Project`
 ● Used ReactJS as web framework, applied current best practices for React.
